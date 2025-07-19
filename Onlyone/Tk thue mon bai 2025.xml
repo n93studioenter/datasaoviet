@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HSoKhaiThue id="_NODE_TO_SIGN">
+        <TTinChung>
+            <TTinDVu>
+                <maDVu>ETAX</maDVu>
+                <tenDVu>ETAX 1.0</tenDVu>
+                <pbanDVu>1.0</pbanDVu>
+                <ttinNhaCCapDVu>ETAX_TCT</ttinNhaCCapDVu>
+            </TTinDVu>
+            <TTinTKhaiThue>
+                <TKhaiThue>
+                    <maTKhai>824</maTKhai>
+                    <tenTKhai>Tờ khai lệ phí môn bài (TT80/2021)</tenTKhai>
+                    <moTaBMau/>
+                    <pbanTKhaiXML>2.8.3</pbanTKhaiXML>
+                    <loaiTKhai>C</loaiTKhai>
+                    <soLan>0</soLan>
+                    <KyKKhaiThue>
+                        <kieuKy>Y</kieuKy>
+                        <kyKKhai>2025</kyKKhai>
+                        <kyKKhaiTuNgay>01/01/2025</kyKKhaiTuNgay>
+                        <kyKKhaiDenNgay>31/12/2025</kyKKhaiDenNgay>
+                        <kyKKhaiTuThang/>
+                        <kyKKhaiDenThang/>
+                    </KyKKhaiThue>
+                    <maCQTNoiNop>71701</maCQTNoiNop>
+                    <tenCQTNoiNop>Thuế cơ sở 24 Thành phố Hồ Chí Minh</tenCQTNoiNop>
+                    <ngayLapTKhai>07/07/2025</ngayLapTKhai>
+                    <nguoiKy/>
+                    <ngayKy>2025-07-07</ngayKy>
+                    <nganhNgheKD/>
+                </TKhaiThue>
+                <NNT>
+                    <mst>3502549279</mst>
+                    <tenNNT>CÔNG TY TNHH DỊCH VỤ ONLY ONE VT</tenNNT>
+                    <dchiNNT>Số 376 Trương Công Định</dchiNNT>
+                    <phuongXa>71701002</phuongXa>
+                    <maHuyenNNT>71701</maHuyenNNT>
+                    <tenHuyenNNT>Thành phố Vũng Tàu(Hết HL)</tenHuyenNNT>
+                    <maTinhNNT>717</maTinhNNT>
+                    <tenTinhNNT>TP Hồ Chí Minh</tenTinhNNT>
+                    <dthoaiNNT>0903779942</dthoaiNNT>
+                    <faxNNT/>
+                    <emailNNT>vicao82@gmail.com</emailNNT>
+                </NNT>
+            </TTinTKhaiThue>
+        </TTinChung>
+        <CTieuTKhaiChinh>
+            <ct09>false</ct09>
+            <ct10>false</ct10>
+            <ngay_thanh_lap xsi:nil="true"/>
+            <NguoiNopLPMB>
+                <ct2>CÔNG TY TNHH DỊCH VỤ ONLY ONE VT</ct2>
+                <ma_xa>71701002</ma_xa>
+                <ten_xa>Phường Tam Thắng</ten_xa>
+                <ct3_ma xsi:nil="true"/>
+                <ct3_ten xsi:nil="true"/>
+                <ct3a_ma>717</ct3a_ma>
+                <ct3a_ten>TP Hồ Chí Minh</ct3a_ten>
+                <ct4>3502549279</ct4>
+                <ct5>500000000</ct5>
+                <ct6>2000000</ct6>
+                <ct7>0</ct7>
+                <ct8>2000000</ct8>
+                <ct9_ma>05</ct9_ma>
+                <ct9_ten>Tổ chức thành lập mới (được cấp mã số thuế mới, mã số doanh nghiệp mới) theo quy định tại điểm c khoản 1 Điều 1 Nghị định số 22/2020/NĐ-CP</ct9_ten>
+            </NguoiNopLPMB>
+            <DiaDiemKD>
+                <DiaDiemKinhDoanh>
+                    <ct2/>
+                    <ma_xa/>
+                    <ten_xa/>
+                    <ct3_ma xsi:nil="true"/>
+                    <ct3_ten xsi:nil="true"/>
+                    <ct3a_ma/>
+                    <ct3a_ten/>
+                    <ct4/>
+                    <ct5>0</ct5>
+                    <ct6>0</ct6>
+                    <ct7>0</ct7>
+                    <ct8>0</ct8>
+                    <ct9_ma/>
+                    <ct9_ten/>
+                </DiaDiemKinhDoanh>
+            </DiaDiemKD>
+            <tongcong_ddkd>0</tongcong_ddkd>
+            <tong>0</tong>
+        </CTieuTKhaiChinh>
+    </HSoKhaiThue>
+    <CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>zf1TEt5oIar65c/F4VGCJJhfN68MqknVyQl3+QM8328=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>ghZwjBEX/gcPJME2PN3PbDxSgy6PuAWdZK7eXTMnEiQFH5pe4Nf+qp/5kimBIBL5m7czsT6l8zds
+g9LqSE9oZjxgb7BSKGDgzbiQWMkhFauDLR5akm0UlDas2OTn+JuiUAC6JuVD00eHErEvWnaOzV7e
+ijil1Tnj5ytKkOiOKno=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>245LQKbCzwCw9dihE6ry93sg2wIcheu9tMPeZr2FCayU+UHPp+KHR7I22Uhm51nET05qp2qDYwT1
+LNt0bRR6eLBmSmXpBM5UPxs/zyF5ccMLLtxORH69T3u3x2fzQyU+GGx6tJSiMxdKwjO3jyFu1YQ5
+AJyEdacgyV3sF0jdeS0=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=Bà Rịa - Vũng Tàu,CN=CÔNG TY TNHH DỊCH VỤ ONLY ONE VT,UID=MST:3502549279</ds:X509SubjectName><ds:X509Certificate>MIID6DCCAtCgAwIBAgIQVAMw5IjB40J7K6NbraLiwjANBgkqhkiG9w0BAQsFADBAMQswCQYDVQQG
+EwJWTjEZMBcGA1UECgwQQmthdiBDb3Jwb3JhdGlvbjEWMBQGA1UEAwwNQmthdkNBIFNIQTI1NjAe
+Fw0yNTA2MjMwMjI5MDRaFw0yOTA1MDkwMzMzMDZaMH4xHjAcBgoJkiaJk/IsZAEBDA5NU1Q6MzUw
+MjU0OTI3OTEuMCwGA1UEAwwlQ8OUTkcgVFkgVE5ISCBE4buKQ0ggVuG7pCBPTkxZIE9ORSBWVDEf
+MB0GA1UECAwWQsOgIFLhu4thIC0gVsWpbmcgVMOgdTELMAkGA1UEBhMCVk4wgZ8wDQYJKoZIhvcN
+AQEBBQADgY0AMIGJAoGBANuOS0Cmws8AsPXYoROq8vd7INsCHIXrvbTD3ma9hQmslPlBz6fih0ey
+NtlIZudZxE9Oaqdqg2ME9SzbdG0UeniwZkpl6QTOVD8bP88heXHDCy7cTkR+vU97t8dn80MlPhhs
+erSUojMXSsIzt48hbtWEOQCchHWnIMld7BdI3XktAgMBAAGjggEiMIIBHjBqBggrBgEFBQcBAQRe
+MFwwNwYIKwYBBQUHMAKGK2h0dHBzOi8vcm9vdGNhLmdvdi52bi9jcnQvQmthdkNBX1NIQTI1Ni5w
+N2IwIQYIKwYBBQUHMAGGFWh0dHA6Ly9vY3NwLmJrYXZjYS52bjAdBgNVHQ4EFgQUY4/aLe6ElKHo
+p7jvNrdAUOYJr8cwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQr1P4Wyp4Wo2d1Yxgzk+FtExY0
+1DAxBgNVHR8EKjAoMCagJKAihiBodHRwOi8vY3JsLmJrYXZjYS52bi9Ca2F2Q0EyLmNybDAOBgNV
+HQ8BAf8EBAMCBPAwHwYDVR0lBBgwFgYIKwYBBQUHAwQGCisGAQQBgjcKAwwwDQYJKoZIhvcNAQEL
+BQADggEBANaXGxqmiEhYV6YZ1mBCxszomo2yRLkCFcCMEI5tj3oUR1ANTj0V6o7naYGOYn+DyMec
+IFXfW5AXhF5pcp200l76RHLDT0PCw6W+Jiny7CtAVhYSw+8j96lYA2e5ZngQf6C/T8rXL8ij4sjI
+iwKpTerN28/auUbEwgqb4COdl8j/AfMEtz8YpxcF21ogEe5r08V7YjjgteSXs65QUNLDzbQvQR+1
+N9Kw8CxU6L2Hmguw4fkW+b8EKz0ausbIiQR9dD+oeQw2wd9Ss7rdhUHqLiUoEUaEP6gKM4yq/wm4
+tAef+tkCH5ALz5Bt3V3nuIcfeV8BV/uxJ5JSG0QpWR0fN/Y=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu>
+</HSoThueDTu>
